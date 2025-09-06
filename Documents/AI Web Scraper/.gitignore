@@ -1,1 +1,4 @@
 __pycache__
+# Ignore DLLs and Chrome binaries
+*.dll
+chrome-win64/
